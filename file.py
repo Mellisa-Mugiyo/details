@@ -8,4 +8,5 @@ if name=='mellisa':
 else:
     print('your name is not mellisa')
 # the name has changed
-# note that the first print doesn't change
+# note that the first print will automatically print but with 
+# but with the name now inserted int he variable name
