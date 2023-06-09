@@ -2,23 +2,19 @@
 __in this task I created only one file named file.py__
 
 Table of contents
-|contents    | No
-|---          
-|introduction| 
-------
-|Discussion  | 2
-------
-|   code analysis| 3
-------
-|    code present | 4
-------
-|Result      | 5
-------
-|   code results | 6
-------
-|    code deployment| 7
-------
-
+=================
+=================
+contents
+--------
+          
+introduction
+*Discussion
+   code analysis
+    code present
+*Result 
+   code results 
+    code deployment
+---------------------
 
 introuduction
 
