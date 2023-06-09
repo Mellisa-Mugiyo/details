@@ -29,14 +29,23 @@ It also include a block of an If statement.
 Discussion
 ***
 ***
-Variables and the block
-===
-===
+Variables and the If block
 3 variables are found inside the file as placeholders of certain
-characters that are going to printed in the final print statement
+characters that are going to printed in the final print statement, you can change the 
+values in each variable
 -------------
-An if statement was included, this block shows that if the variable name equates the name'mellisa' print that 'ok!! let's get ready to build a robot with mellisa but if the variable 'name' is no longer mellisa it should print that 'your name is not mellisa. You should note that the first print statement will print no matter what because it is outside the block . even if the name variable changes that print statement will print eitherway
+An if statement was included, this block shows that if the variable name equates the name'mellisa' print  'ok!! let's get ready to build a robot with mellisa but if the variable 'name' is no longer mellisa it should print that 'your name is not mellisa. You should note that the first print statement will print no matter what because it is outside the block . even if the name variable changes that print statement will print eitherway but in this case with the value of the name that you inserted
 -----------
+-----------
+
+code represent
+===
+===
+
+
+
+
+
 
 
 
