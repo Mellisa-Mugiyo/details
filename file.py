@@ -1,5 +1,5 @@
-name='mellisa'
-mood='trilled'
+name='mercy'
+mood='thrilled'
 school='hyperiondev'
 print(name ,'is',mood,"to be at",school)
 if name=='mellisa':
@@ -7,3 +7,5 @@ if name=='mellisa':
 
 else:
     print('your name is not mellisa')
+# the name has changed
+# note that the first print doesn't change
